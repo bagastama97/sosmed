@@ -1,0 +1,14 @@
+[
+  {
+    "username": "Bagas Tama",
+    "password": 123,
+    "role": "user",
+    "email": "bagas@gmail.com"
+  },
+  {
+    "username": "Dicky Adityo",
+    "password": 123,
+    "role": "agent",
+    "email": "dicky@gmail.com"
+  }
+]
